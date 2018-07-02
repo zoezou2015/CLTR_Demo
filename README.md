@@ -1,3 +1,3 @@
 # CLTR_Demo
-DASFAA2017 Demo 
-The source code for paper 'CLTR: Collectively Linking Temporal Records Across Heterogeneous Sources.'
+
+The source code for paper 'CLTR: Collectively Linking Temporal Records Across Heterogeneous Sources.' accepted by DASFAA 2017
